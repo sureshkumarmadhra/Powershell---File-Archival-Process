@@ -1,0 +1,13 @@
+server.name=BUK001CLIC001v.bil.Local,BUK001CLIC002v.bil.Local,BUK001CLIC003v.bil.Local,BUK001CLIC004v.bil.Local,BUK001CLIC005v.bil.Local
+cpaserver.name=jsy-ecmmtrvt01,jsy-ecmmtrvd01
+server.IP=10.100.32.3,10.100.32.4,10.100.32.2,10.100.32.6,10.100.32.7
+server.Type= Application Server,Application server,Integration Server,Integration Server,GIS Server 
+log.path=d$\\suresh\\
+archival.limit=30
+rar.path=d$\\suresh\\rar.exe
+archival.path=d$\\suresh\\
+batch.filepath=d$\\suresh\\archival.bat
+
+
+
+
