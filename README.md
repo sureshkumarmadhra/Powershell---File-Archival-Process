@@ -13,7 +13,7 @@ The script is designed and develop to archive older log files and provide follow
 3. Delete archived log files which are older than 60 days
 
 
-Version: Powershell 4.0
+Version: Powershell 2.0
 -----------------------------
 
 Source Code
