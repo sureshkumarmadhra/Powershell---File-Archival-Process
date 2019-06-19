@@ -38,7 +38,7 @@ Dependency:
 
 Winrar -- > rar.exe file
 
-Rar.exe executable file is part of Winrar bundle and is used to compress the logs
+Rar.exe executable file is part of Winrar bundle and is used to compress the logs. Download Winrar compression agent tool 
 
 Configuraiton File:
 ------------------
@@ -52,3 +52,5 @@ log path
 Retention period
 archival log path
 hidden path
+
+batch File - it will be created at runtime
